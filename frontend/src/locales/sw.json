@@ -1,0 +1,32 @@
+{
+  "app": {
+    "name": "CompValuation"
+  },
+  "nav": {
+    "dashboard": "Dashibodi",
+    "tasks": "Kazi",
+    "users": "Watumiaji",
+    "logout": "Toka"
+  },
+  "auth": {
+    "login": "Ingia",
+    "register": "Fungua Akaunti",
+    "email": "Barua pepe",
+    "password": "Nywila",
+    "fullName": "Jina Kamili"
+  },
+  "tasks": {
+    "title": "Kazi",
+    "newTask": "Kazi Mpya",
+    "status": {
+      "todo": "Bado",
+      "in_progress": "Inaendelea",
+      "done": "Imekamilika"
+    },
+    "priority": {
+      "low": "Chini",
+      "medium": "Kati",
+      "high": "Juu"
+    }
+  }
+}
